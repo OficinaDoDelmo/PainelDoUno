@@ -1,3 +1,5 @@
+🌐 [English version](README_EN.md) | [Versão em Português 🇧🇷](README.md)
+
 # 🚗 PainelDoUno
 
 Bem-vindo ao **PainelDoUno**, um projeto da **OficinaDoDelmo** ⚙️  
