@@ -1,3 +1,7 @@
+## 🚧 WARNING: PROJECT STILL IN DEVELOPMENT  
+This Uno dashboard is still under testing and development.  
+Some features may be incomplete or change in future updates.
+
 # 🚗 PainelDoUno
 
 Welcome to **PainelDoUno**, a project by **OficinaDoDelmo** ⚙️  
