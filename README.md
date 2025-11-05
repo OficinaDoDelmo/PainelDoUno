@@ -1,5 +1,9 @@
 🌐 [English version](README_EN.md) | [Versão em Português 🇧🇷](README.md)
 
+## 🚧 ATENÇÃO: PROJETO AINDA NÃO FINALIZADO  
+Este painel do Uno ainda está em fase de testes e desenvolvimento.  
+Algumas funções podem não estar completas ou podem mudar nas próximas atualizações. 
+
 # 🚗 PainelDoUno
 
 Bem-vindo ao **PainelDoUno**, um projeto da **OficinaDoDelmo** ⚙️  
