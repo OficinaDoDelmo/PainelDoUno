@@ -33,3 +33,28 @@ A ideia é mostrar que dá pra inovar com o que se tem em casa — reutilizando,
 ## 🔋 Ideia central
 > “A tecnologia boa é aquela que qualquer um pode construir.”  
 > — *OficinaDoDelmo*
+
+---
+
+## 🌍 Sobre o criador
+👨‍🔧 **Delmo** — inventor curioso, criador da OficinaDoDelmo.  
+Apaixonado por transformar ideias em circuitos e dar nova vida a notebooks antigos.  
+
+📡 *Futuro desenvolvedor de um Linux personalizado.*  
+🪄 *Explorando o mundo da automação e da IA caseira.*  
+
+---
+
+## 🤝 Contribuições
+Quer ajudar a melhorar o projeto?  
+Faça um **fork**, compartilhe suas ideias ou envie um **pull request**.  
+Toda contribuição é bem-vinda! 💬  
+
+---
+
+⭐ **Curta o repositório se gostou do projeto!**  
+Mais invenções estão chegando direto da **OficinaDoDelmo** ⚙️
+
+## 🔋 Ideia central
+> “A tecnologia boa é aquela que qualquer um pode construir.”  
+> — *OficinaDoDelmo*
